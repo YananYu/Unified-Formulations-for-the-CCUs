@@ -1,0 +1,13 @@
+Unit Index,Unit Name,Unit ID,Unit Type,Bus No,Quick Start Capability,Ini Mode No,IniT,IniP,Mode Num,CT Num,ST Num,Fuel Type
+4001,CC1,1,CC,12,20,0,-10,0,5,2,1,Gas
+4002,CC2,1,CC,61,28,0,-10,0,5,2,1,Gas
+4003,CC3,1,CC,62,20,0,-10,0,5,2,1,Gas
+4004,CC4,1,CC,66,28,0,-10,0,5,2,1,Gas
+4005,CC5,1,CC,49,20,0,-10,0,5,2,1,Gas
+4006,CC6,2,CC,49,20,0,-10,0,5,2,1,Gas
+4007,CC7,1,CC,59,28,0,-10,0,5,2,1,Gas
+4008,CC8,2,CC,61,28,0,-10,0,5,2,1,Gas
+4009,CC9,1,CC,80,28,0,-10,0,5,2,1,Gas
+4010,CC10,1,CC,111,28,0,-10,0,5,2,1,Gas
+4011,CC11,1,CC,100,28,0,-10,0,5,2,1,Gas
+4012,CC12,1,CC,89,28,0,-10,0,5,2,1,Gas
